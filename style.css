@@ -1,0 +1,18 @@
+body{
+    background-image: linear-gradient(to right top, #c357f5, #d33ff8, #b441f7, #9a27f8, #9d08f3);
+}
+#boton_enviar
+{
+   margin-top: 20px;
+   margin-bottom: 20px;
+}
+#boton_ordenar
+{
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+input{
+    margin: 10px;
+}
